@@ -1,0 +1,13 @@
+{
+    "name": "guill/hello-composer",
+    "description": "hello",
+    "type": "library",
+    "license": "C",
+    "authors": [
+        {
+            "name": "Guillem Parals",
+            "email": "guillempars@gmail.com"
+        }
+    ],
+    "require": {}
+}
